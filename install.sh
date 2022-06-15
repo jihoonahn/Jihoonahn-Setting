@@ -19,7 +19,7 @@ open /Applications/iTerm.app
 sudo xattr -dr com.apple.quarantine /Applications/GitHub\ Desktop.app
 open /Applications/GitHub\ Desktop.app
 
-
+open /Applications/Apple\ Developer.app
 open /Applications/kakaotalk.app
 open /Applications/figma.app
 
@@ -38,6 +38,22 @@ chmod 755 ./iterm2/install.sh
 # install xcode
 chmod 755 ./xcode/install.sh
 ./xcode/install.sh
+
+# install tuist
+chmod 755 ./tuist/install.sh
+./tuist/install.sh
+
+# install mint
+chmod 755 ./mint/install.sh
+./mint/install.sh
+
+#install swiftlint
+chmod 755 ./swiftlint/install.sh
+./swiftlint/install.sh
+
+# install swiftgen
+chmod 755 ./swiftgen/install.sh
+./swiftgen/install.sh
 
 # install cocoapods
 sudo gem install cocoapods
