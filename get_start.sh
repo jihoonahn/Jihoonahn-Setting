@@ -18,6 +18,12 @@ sudo xattr -dr com.apple.quarantine /Applications/iTerm.app
 open /Applications/iTerm.app
 sudo xattr -dr com.apple.quarantine /Applications/GitHub\ Desktop.app
 open /Applications/GitHub\ Desktop.app
+sudo xattr -dr com.apple.quarantine /Applications/Realm\ Studio.app
+open /Applications/Realm\ Studio
+sudo xattr -dr com.apple.quarantine /Applications/Discord.app
+open /Applications/Discord
+sudo xattr -dr com.apple.quarantine /Applications/Notion.app
+open /Applications/Notion
 
 open /Applications/appledeveloper.app
 open /Applications/kakaotalk.app
