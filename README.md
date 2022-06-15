@@ -12,6 +12,6 @@ If you reset your laptop or buy a new MacBook, for faster setting
 
 `->` open Setting file in terminal
 
-`->` enter command **sh install.sh**
+`->` enter command **sh get_start.sh**
 
 `->` and that's all ⭕️
