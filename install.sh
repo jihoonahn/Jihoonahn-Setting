@@ -19,7 +19,7 @@ open /Applications/iTerm.app
 sudo xattr -dr com.apple.quarantine /Applications/GitHub\ Desktop.app
 open /Applications/GitHub\ Desktop.app
 
-open /Applications/Apple\ Developer.app
+open /Applications/appledeveloper.app
 open /Applications/kakaotalk.app
 open /Applications/figma.app
 

@@ -22,4 +22,4 @@ cask 'google-chrome'
 cask 'iterm2'
 cask 'figma'
 cask 'github'
-
+cask 'sourcetree'
