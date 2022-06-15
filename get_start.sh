@@ -27,6 +27,10 @@ open /Applications/figma.app
 chmod 755 ./zsh/install.sh
 ./zsh/install.sh
 
+# configure mongodb-realm-studio
+chmod 755 ./mongodb-realm-studio/install.sh
+./mongodb-realm-studio/install.sh
+
 # configure VSCode
 chmod 755 ./vscode/install.sh
 ./vscode/install.sh
