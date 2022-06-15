@@ -8,9 +8,9 @@ If you reset your laptop or buy a new MacBook, for faster setting
 
 `->` download this folder
 
-`->` Navigate to the template file you want
+`->` Navigate to the Setting file you want
 
-`->` open template file in terminal
+`->` open Setting file in terminal
 
 `->` enter command **sh install.sh**
 
