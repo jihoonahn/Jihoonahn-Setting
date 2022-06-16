@@ -65,6 +65,10 @@ chmod 755 ./swiftlint/install.sh
 chmod 755 ./swiftgen/install.sh
 ./swiftgen/install.sh
 
+#install xcodegen
+chmod 755 ./xcodegen/install.sh
+./xcodegen/install.sh
+
 # install cocoapods
 sudo gem install cocoapods
 
