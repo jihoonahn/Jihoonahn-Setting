@@ -24,6 +24,8 @@ sudo xattr -dr com.apple.quarantine /Applications/Discord.app
 open /Applications/Discord
 sudo xattr -dr com.apple.quarantine /Applications/Notion.app
 open /Applications/Notion
+sudo xattr -dr com.apple.quarantine /Applications/SF\ Symbols.app
+open /Applications/SF\ Symbols
 
 open /Applications/appledeveloper.app
 open /Applications/kakaotalk.app
